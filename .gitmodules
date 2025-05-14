@@ -3,7 +3,7 @@
 	url = https://github.com/Thalhammer/jwt-cpp
 [submodule "libs/cpr"]
 	path = libs/cpr
-	url = git@github.com:libcpr/cpr.git
+	url = https://github.com/libcpr/cpr.git
 [submodule "libs/drogon"]
 	path = libs/drogon
 	url = https://github.com/drogonframework/drogon.git
